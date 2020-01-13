@@ -60,7 +60,7 @@ class Home extends Component {
         this.tryPlayVideo();
         this.setState({isLoading: false});
       }
-    }, 0);
+    }, 3000);
   }
 
   render() {
