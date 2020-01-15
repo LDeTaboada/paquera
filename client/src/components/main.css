@@ -922,7 +922,7 @@ a {
   -webkit-animation-name: shimmer;
   -webkit-animation-duration: 1.2s;
   -webkit-animation-iteration-count: 1;
-  -webkit-background-size: 4rem 100%;
+  -webkit-background-size: 3rem 100%;
   -webkit-animation-delay: 0s !important;
   cursor: pointer !important;
 }
